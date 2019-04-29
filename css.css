@@ -1,0 +1,44 @@
+body{
+border-top: 10px solid black;
+border-bottom: 10px solid black;
+font-family: sans-serif;}
+
+.nav-part nav {
+text-align: center;
+font-size:28px;
+margin-top: 30px;
+font-weight: bold;}
+
+.nav-part img{border: 2px solid black;
+float:right;padding: 5px;
+width: 200px;height: 200xp;margin-top:15px;}
+    
+.nav-part{text-align: center;margin-top:40px;font-size: 30px;}
+
+.nav-part strong{font-style: italic;}
+
+.nav-part a{color:black;}
+
+.nav-part1 strong{font-style: italic;}
+
+.nav-part1 a{color:black}
+
+.nav-part1{text-align: center; margin-top:40px;font-size: 30px;}
+
+.nav-part{width:80%;margin: 0 auto;}
+
+.nav-part nav a{color:black;}
+
+.nav-part h3 {font-size: 40px;}
+
+.nav-part p {margin-bottom: 20px;font-size: 28px;}
+
+#h1{text-align: left;font-weight: 100;font-size: 90%;}
+
+li {text-align: left;} span{font-weight: 100;}
+
+p{text-align: left;font-weight: 100;}
+
+.div-images{
+    text-align: center;
+}
